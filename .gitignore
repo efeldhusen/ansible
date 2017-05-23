@@ -1,0 +1,11 @@
+.vagrant
+vagrant_ansible_inventory_*
+packer*
+ssh.cfg
+galaxy/*
+!galaxy/README.md
+*.rpm
+cmdbout/*
+!cmdbout/README.md
+overview.html
+*.retry
