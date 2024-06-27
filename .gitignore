@@ -9,3 +9,4 @@ cmdbout/*
 !cmdbout/README.md
 overview.html
 *.retry
+.DS_Store
